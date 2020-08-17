@@ -1,0 +1,128 @@
+
+.carbaniologo {
+  width: 15.1px;
+  height: 15.3px;
+  padding-right: 300px;
+}
+.Carbaniocom{
+ /* width: 99px;
+  height: 18px;
+  font-family: OpenSans;*/
+  font-size: 13px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 10.69;
+  letter-spacing: normal;
+  text-align: left;
+  color: #525d77;
+}
+.Buy-in-Carbanio{
+  /*width: 113px;
+  height: 18px;
+  font-family: OpenSans;*/
+  font-size: 13px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 10.69;
+  letter-spacing: normal;
+  text-align: left;
+  color: #525d77;
+  
+}
+
+.Sell-on-Carbanio{
+  /*width: 122px;
+  height: 18px;
+  font-family: OpenSans;*/
+  font-size: 13px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 10.69;
+  letter-spacing: normal;
+  text-align: left;
+  color: #525d77;
+}
+.Academia-Assistance{
+  /*width: 145px;
+  height: 18px;
+  font-family: OpenSans;*/
+  font-size: 13px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 10.69;
+  letter-spacing: normal;
+  text-align: left;
+  color: #525d77;
+}
+.Login{
+  /*width: 41px;
+  height: 18px;*/
+  /*font-family: OpenSans;*/
+  font-size: 13px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 10.69;
+  letter-spacing: normal;
+  text-align: left;
+  color: #525d77;
+}
+.center {
+  margin: auto;
+  width: 80%;
+  padding: 10px;
+}
+/*.Amiodarone{
+  width: 181px;
+  height: 19px;
+  font-family: OpenSans;
+  font-size: 14px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 4.21;
+  letter-spacing: normal;
+  text-align: left;
+  color: #0c0c66;
+}*/
+.Rectangle{
+margin: 10px auto;
+  
+}
+.container { 
+  height: 100px;
+  position: relative;
+  
+}
+
+.centerbtn {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: 200px;
+  height: 45px;
+  border-radius: 10px;
+  background-color: #9ba8b7;
+
+}
+.Hello-Boss-Please-take-action {
+  width: 314px;
+  height: 30px;
+  opacity: 0.75;
+  font-family: Open Sans;
+  font-size: 22px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 6.32;
+  letter-spacing: normal;
+  /*text-align: center;*/
+  color: #23282d;
+}
